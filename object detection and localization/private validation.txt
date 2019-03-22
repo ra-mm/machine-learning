@@ -1,0 +1,6 @@
+To perform testing on the other images that are of kind mentioned in .pbtxt file follow the steps below:
+['import the data
+1. Insert the testing data files[i.e.. images] with folder named 'test_data'.
+2.upload the test.csv file in test directory.
+3.And run the all the cells in the object-localization_test.ipynb file.
+4.new file with mytest.csv will be genarted with required values  
